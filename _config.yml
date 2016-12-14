@@ -4,13 +4,13 @@ baseurl:
 # Site settings
 title: ATGenomics
 email: atgenomics@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: " ATGenomics ":" where your ideas start "
 
 
 # Team names, titles and social links
 people:
 - name: Victor Flores
-  pic: "2015-07-29 20.15.28"
+  pic: "vflorelo.png"
   position: Bioinformatician
   social:
     - title: twitter
@@ -19,35 +19,37 @@ people:
       url: http://facebook.com/vflorelo
     - title: stack-overflow
       url: http://stackoverflow.com/users/2649517/vflorelo
+    - title: linkedin
+      url: http://www.linkedin.com/in/vflorelo
 
 - name: Otoniel Maya
-  pic: 2
+  pic: "zorbax.png"
   position: Bioinformatician
   social:
     - title: twitter
-      url: http://twitter.com/vflorelo
+      url: http://twitter.com/zorbax
     - title: facebook
-      url: #
+      url: https://www.facebook.com/zorbax
     - title: linkedin
-      url: #
+      url: https://mx.linkedin.com/in/zorbax
 
 - name: Sandra Ortega
-  pic: 3
-  position: Lead Marketer
+  pic: "sandy.png"
+  position: Team Leader
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/yeah_Mme
     - title: facebook
-      url: #
+      url: https://www.facebook.com/sandra.ortega.5099940
 
 - name: Marco Carballo
-  pic: 4
+  pic: "carballo.png"
   position: Lead Developer
   social:
     - title: twitter
       url: #
     - title: facebook
-      url: #
+      url: https://www.facebook.com/marco.a.ontiveros.9
 
 - name: Alejandra Chávez
   pic: 5
