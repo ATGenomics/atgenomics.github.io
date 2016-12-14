@@ -10,7 +10,7 @@ description: " ATGenomics where your ideas start "
 # Team names, titles and social links
 people:
 - name: Victor Flores
-  pic: "vflorelo.png"
+  pic: vflorelo
   position: Bioinformatician
   social:
     - title: twitter
@@ -23,7 +23,7 @@ people:
       url: http://www.linkedin.com/in/vflorelo
 
 - name: Otoniel Maya
-  pic: "zorbax.png"
+  pic: zorbax
   position: Bioinformatician
   social:
     - title: twitter
@@ -34,7 +34,7 @@ people:
       url: https://mx.linkedin.com/in/zorbax
 
 - name: Sandra Ortega
-  pic: "sandy.png"
+  pic: sandy
   position: Team Leader
   social:
     - title: twitter
@@ -43,7 +43,7 @@ people:
       url: https://www.facebook.com/sandra.ortega.5099940
 
 - name: Marco Carballo
-  pic: "carballo.png"
+  pic: carballo
   position: Lead Developer
   social:
     - title: twitter
