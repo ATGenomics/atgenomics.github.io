@@ -1,6 +1,6 @@
  <!-- Portfolio Modals -->
  {% for post in site.posts %}
-    <div class="portfolio-modal modal fade" id="portfolioModal{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="workshop{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -16,17 +16,23 @@
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
+                            <h3><strong><a href="/w/assembly/{{ post.scheme }}">Temario</a>
+                            </strong></h3>
+                            <br>
+                            <a href="/{{post.link-to}}" class="page-scroll btn btn-xl">More info</a>
+                            <br>
+                            <br>
                             <ul class="list-inline item-details">
                                 <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
+                                    <strong><a href="">{{ post.client }}</a>
                                     </strong>
                                 </li>
                                 <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
+                                    <strong><a href="">{{ post.project-date }}</a>
                                     </strong>
                                 </li>
                                 <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                    <strong><a href="">{{ post.category }}</a>
                                     </strong>
                                 </li>
                             </ul>

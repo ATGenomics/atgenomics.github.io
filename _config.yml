@@ -10,7 +10,7 @@ description: " ATGenomics where your ideas start "
 # Team names, titles and social links
 people:
 - name: Victor Flores
-  pic: vflorelo
+  pic: 1
   position: Bioinformatician
   social:
     - title: twitter
@@ -23,7 +23,7 @@ people:
       url: http://www.linkedin.com/in/vflorelo
 
 - name: Otoniel Maya
-  pic: zorbax
+  pic: 2
   position: Bioinformatician
   social:
     - title: twitter
@@ -34,8 +34,8 @@ people:
       url: https://mx.linkedin.com/in/zorbax
 
 - name: Sandra Ortega
-  pic: sandy
-  position: Team Leader
+  pic: 3
+  position: Technical Solutions Consultant
   social:
     - title: twitter
       url: https://twitter.com/yeah_Mme
@@ -43,8 +43,8 @@ people:
       url: https://www.facebook.com/sandra.ortega.5099940
 
 - name: Marco Carballo
-  pic: carballo
-  position: Lead Developer
+  pic: 4
+  position: Technical Solutions Consultant
   social:
     - title: twitter
       url: #
@@ -53,7 +53,7 @@ people:
 
 - name: Alejandra Chávez
   pic: 5
-  position: Junior Developer
+  position: Molecular Biology Analyst
   social:
     - title: twitter
       url: #
@@ -70,8 +70,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Mexico City, Mexico
 
 # Build settings
 markdown: kramdown
