@@ -1,0 +1,15 @@
+---
+title: Ensamble de genomas
+subtitle: Herramientas GNU/Linux y ensamble de genomas bacterianos
+layout: default
+modal-id: 1
+date: 2017-02-20
+img: assembly.png
+thumbnail: assembly-thumbnail.png
+project-date: March 2017
+category: Workshops
+description: Herramientas GNU/Linux y ensamble de genomas bacterianos. 20-24 Febrero 2017. Costo $2,500 + 16 % IVA.
+link-to: w/assembly/poster_curso_ensamble.png
+scheme: bioinfo_ensamble.pdf
+
+---
