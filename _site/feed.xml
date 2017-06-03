@@ -5,13 +5,39 @@
     <description> ATGenomics where your ideas start </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 28 Apr 2017 23:11:37 -0500</pubDate>
-    <lastBuildDate>Fri, 28 Apr 2017 23:11:37 -0500</lastBuildDate>
+    <pubDate>Sat, 03 Jun 2017 00:32:33 -0500</pubDate>
+    <lastBuildDate>Sat, 03 Jun 2017 00:32:33 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
+        <title>Análisis de transcriptomas</title>
+        <description>&lt;p&gt;Herramientas GNU/Linux y ensamble de genomas bacterianos. 26-30 Junio 2017.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 30 May 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/workshops/2017/05/30/rnaseq/</link>
+        <guid isPermaLink="true">http://localhost:4000/workshops/2017/05/30/rnaseq/</guid>
+        
+        
+        <category>Workshops</category>
+        
+      </item>
+    
+      <item>
+        <title>Análisis de amplicones de 16S rRNA</title>
+        <description>&lt;p&gt;Herramientas GNU/Linux y ensamble de genomas bacterianos. 17-21 Marzo 2017.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Mar 2017 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/workshops/2017/03/16/qiime-analysis/</link>
+        <guid isPermaLink="true">http://localhost:4000/workshops/2017/03/16/qiime-analysis/</guid>
+        
+        
+        <category>Workshops</category>
+        
+      </item>
+    
+      <item>
         <title>Ensamble de genomas</title>
-        <description>
+        <description>&lt;p&gt;Herramientas GNU/Linux y ensamble de genomas bacterianos. 20-24 Febrero 2017.&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Feb 2017 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/workshops/2017/02/20/assembly/</link>

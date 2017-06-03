@@ -1,0 +1,17 @@
+---
+title: Análisis de transcriptomas
+subtitle: Herramientas GNU/Linux y Análisis de RNA-Seq
+layout: default
+modal-id: 3
+date: 2017-05-30
+img: 03.png
+thumbnail: 03-thumbnail.png
+project-date: May 2017
+category: Workshops
+#description:
+link-to: w/rnaseq
+#scheme: bioinfo_ensamble.pdf
+
+---
+
+Herramientas GNU/Linux y ensamble de genomas bacterianos. 26-30 Junio 2017.
