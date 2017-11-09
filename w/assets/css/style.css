@@ -182,8 +182,10 @@ a,
 	transition: all 0.15s ease;
 }
 
-ul 	{ margin:0; padding:0; }
-li	{ list-style-type:circle; list-style-position:inside; }
+ul 	{ margin:0; padding:0; list-style-type: none; }
+li	{ list-style-type:square; list-style-position:inside;}
+li span { margin-left: -10px; }
+
 
 /* Line Height */
 #post-body, p { line-height:1.7; }
