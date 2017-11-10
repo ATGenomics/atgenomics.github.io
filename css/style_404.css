@@ -29,7 +29,7 @@ img{max-width:100%;}
 /*-- end reset --*/
 body {
     font-family: 'Open Sans', sans-serif;
-    background: url(/img/404/1.jpg)no-repeat center 0px;
+    background: url(img/404/1.png)no-repeat center 0px;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
 	background-size:cover;
@@ -66,7 +66,7 @@ body {
 	transition: 0.5s all;
 }
 .w3top-nav-right ul li a:hover{
-	color:#fbb034;
+	color:#3aa497;
 }
 /*-- //top-nav --*/
 /*-- //errortext --*/
@@ -90,7 +90,7 @@ p.w3lstext {
     margin: 1.5em auto 2.5em;
 }
 p.w3lstext a {
-    color: #fbb034;
+    color: #3aa497;
 	padding-right:10px;
 }
 p.w3lstext a:hover{
@@ -102,7 +102,7 @@ p.w3lstext a:hover{
     font-size: 1em;
     color: #fff;
     outline: none;
-    border: 1px solid #fbb034;
+    border: 1px solid #3aa497;
     background: none;
     border-radius: 50px;
     -webkit-appearance: none;
@@ -113,8 +113,8 @@ p.w3lstext a:hover{
 .agile-search input[type="submit"] {
     outline: none;
     box-shadow: none;
-    background: #fbb034;
-    border: 1px solid #fbb034;
+    background: #3aa497;
+    border: 1px solid #3aa497;
     padding: .8em 3em;
     color: #fff;
     cursor: pointer;
@@ -126,7 +126,7 @@ p.w3lstext a:hover{
     transition: 0.5s all;
 }
 .agile-search input[type="submit"]:hover {
-    color: #fbb034;
+    color: #3aa497;
     background: transparent;
 }
 ::-webkit-input-placeholder {
@@ -161,7 +161,7 @@ p.w3lstext a:hover{
 	transition: 0.5s all;
 }
 .copyright p a:hover{
-    color: #fbb034;
+    color: #3aa497;
 }
 /*-- //copyright --*/
 /*-- //main --*/
@@ -171,7 +171,7 @@ p.w3lstext a:hover{
     color: #fff;
 }
 span {
-    color: #fbb034;
+    color: #3aa497;
 }
 /*-- responsive-design --*/
 @media(max-width:1366px){
