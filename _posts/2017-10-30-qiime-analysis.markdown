@@ -9,7 +9,7 @@ thumbnail: 02-thumbnail.png
 project-date: Frebruary 2018
 category: Workshops
 #description:
-link-to: w/16s
+link-to: /16s
 #scheme: bioinfo_ensamble.pdf
 
 ---
