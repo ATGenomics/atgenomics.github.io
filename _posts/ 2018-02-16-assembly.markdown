@@ -9,9 +9,9 @@ thumbnail: 01-thumbnail.png
 project-date: April 2018
 category: Workshops
 #description:
-link-to: w/ensamble
+link-to: ensamble/
 #scheme: bioinfo_ensamble.pdf
 
 ---
 
-Herramientas GNU/Linux y ensamble de genomas bacterianos. Abril 2018.
+Herramientas GNU/Linux para genómica comparativa y ensamble de genomas bacterianos. Junio 2019.
