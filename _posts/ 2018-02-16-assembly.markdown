@@ -1,6 +1,6 @@
 ---
 title: Ensamble de genomas
-subtitle: Herramientas GNU/Linux y ensamble de genomas bacterianos
+subtitle: Herramientas GNU/Linux para genómica comparativa y ensamble de genomas bacterianos
 layout: default
 modal-id: 1
 date: 2018-02-16

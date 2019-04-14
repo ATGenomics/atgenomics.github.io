@@ -9,7 +9,7 @@ thumbnail: 03-thumbnail.png
 project-date: May 2017
 category: Workshops
 #description:
-link-to: w/rnaseq
+link-to: rnaseq/
 #scheme: bioinfo_ensamble.pdf
 
 ---
