@@ -13,12 +13,8 @@ people:
   pic: 1
   position: Bioinformatician
   social:
-    - title: twitter
-      url: http://twitter.com/vflorelo
     - title: facebook
       url: http://facebook.com/vflorelo
-    - title: stack-overflow
-      url: http://stackoverflow.com/users/2649517/vflorelo
     - title: linkedin
       url: http://www.linkedin.com/in/vflorelo
 
@@ -26,21 +22,10 @@ people:
   pic: 2
   position: Bioinformatician
   social:
-    - title: twitter
-      url: http://twitter.com/zorbax
     - title: facebook
       url: https://www.facebook.com/zorbax
     - title: linkedin
       url: https://mx.linkedin.com/in/zorbax
-
-- name: Sandra Ortega
-  pic: 3
-  position: Technical Solutions Consultant
-  social:
-    - title: twitter
-      url: https://twitter.com/yeah_Mme
-    - title: facebook
-      url: https://www.facebook.com/sandra.ortega.5099940
 
 - name: Marco Carballo
   pic: 4
