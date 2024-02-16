@@ -1,6 +1,0 @@
-[submodule "_site"]
-	path = _site
-	url = https://github.com/ATGenomics/atgenomics.github.io.git
-[submodule "slides"]
-	path = slides
-	url = https://github.com/ATGenomics/slides
